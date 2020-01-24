@@ -1,0 +1,10 @@
+{
+	"trading": {
+		"login" : {
+		  "status": "SUCCESS",
+		  "token": "wsderftgyhjukiolsdvfdsaasf",
+		  "token2fa": "rghdfksvhsdhjvdoahfv234rfi",
+		  "message": "message"
+		}
+	}
+}
